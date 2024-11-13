@@ -1,0 +1,4 @@
+D:/SISPROGRAM/Shmatkoden/build/CMakeFiles/calculator.dir
+D:/SISPROGRAM/Shmatkoden/build/CMakeFiles/main.dir
+D:/SISPROGRAM/Shmatkoden/build/CMakeFiles/edit_cache.dir
+D:/SISPROGRAM/Shmatkoden/build/CMakeFiles/rebuild_cache.dir
